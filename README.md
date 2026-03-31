@@ -32,8 +32,8 @@ Takes user input and generates a personalized open-source philosophy statement s
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/ShivamSaini/oss-audit-[24BAI10026].git
-cd oss-audit-[24BAI10026]
+git clone https://github.com/ShivamSaini/oss-audit-24BAI10026.git
+cd oss-audit-24BAI10026
 ````
 
 ---
