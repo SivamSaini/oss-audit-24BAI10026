@@ -1,0 +1,13 @@
+==================================================
+         PERSONAL OPEN SOURCE MANIFESTO           
+==================================================
+Generated on: 29 March 2026
+
+I use Git as part of my everyday digital life, i learned about it in my highschool days.
+To me, freedom means Independence, because true software freedom gives
+users the right to learn, modify, and improve what they use.
+If I had the opportunity, I would build and freely share developer tools for my peers so
+that others could learn from it, improve it, and use it without
+unnecessary restrictions. Open source represents collaboration,
+community, and the belief that knowledge grows when it is shared.
+It helped me grow and I want others to grow from it too.
